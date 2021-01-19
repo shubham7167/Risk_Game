@@ -6,8 +6,8 @@
 ```
 loadmap my.map
 
-gameplayer -add mehul
-gameplayer -add komal
+gameplayer -add player1
+gameplayer -add player2
 
 populatecountries
 placeall
