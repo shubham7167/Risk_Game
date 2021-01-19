@@ -1,0 +1,13 @@
+[files]
+
+[continents]
+Asia 1
+Europe 1
+
+[countries]
+1 India 1 0 0
+2 England 2 0 0
+
+[borders]
+1 2
+2 1

@@ -1,0 +1,12 @@
+[files]
+
+[continents]
+Asia 4 
+
+[countries]
+1 India 1 0 0
+2 China 1 0 0
+
+[borders]
+1 2
+2 1
